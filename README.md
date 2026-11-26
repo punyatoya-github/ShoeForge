@@ -1,4 +1,4 @@
-# LastLab – Footwear CAD MVP (Python)
+# Footwear CAD
 
 Desktop Python port of the LastLab web MVP, with the same module structure: projects, shoe last library/import, 3D view and manipulation, **last design** and **basic upper design**.
 
